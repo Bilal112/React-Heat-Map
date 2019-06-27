@@ -53,7 +53,7 @@
  
    render() {
  
-     const apiKey = {key: 'AIzaSyAvMJQfSi7KEWnICftMup-QuqjEcSIGgp0'}
+     const apiKey = {key: 'add map key'}
      const heatMapData = {
        positions: this.state.heatmapPoints,
      options: {
